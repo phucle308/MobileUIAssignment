@@ -14,7 +14,7 @@ export default function Index() {
     <View style={styles.container}>
       {/* Header */}
       <View style={styles.header}>
-        <Text style={styles.logo}>Instagram</Text>
+        <Text style={styles.logo}>Instagram Clone</Text>
         <View style={styles.headerIcons}>
           <Text style={styles.icon}>♡</Text>
           <Text style={styles.icon}>♡</Text>
